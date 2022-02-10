@@ -1,4 +1,4 @@
-# Lipschitz-Analysis-of-Neural-Networks
+# LRNN: Lipschitz-Analysis-of-Neural-Networks
 
 ## About
 
