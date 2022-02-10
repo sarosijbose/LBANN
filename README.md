@@ -26,4 +26,4 @@ pip install -r requirements.txt
 
 ## Acknowledgements
 
-Parts of the codebase has been borrowed from the [LIPSDP](https://github.com/arobey1/LipSDP) repository. We are grateful to the authors for making their work publicly available. 
+Parts of the codebase has been borrowed from the [LipSDP](https://github.com/arobey1/LipSDP) repository. We are grateful to the authors for making their work publicly available. 
