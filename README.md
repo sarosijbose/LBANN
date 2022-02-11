@@ -24,6 +24,20 @@ pip install -r requirements.txt
 
 ## Results
 
+The Table below highlightes how the measured lipschitz bound slowly approaches the true (empirical) lipschitz bound.
+
+SL No. | Set Size (n) | Avg. Emp Value | Max. of Max Emp value
+:---: | :---: | :---: | :---:
+1 | 10 | 10.279830587380388 | 21.996063734099092
+2 | 30 | 10.279830587380388 | 21.996063734099092
+3 | 50 | 10.279830587380388 | 21.996063734099092
+4 | 100 | 10.279830587380388 | 21.996063734099092
+5 | 250 | 10.279830587380388 | 21.996063734099092
+6 | 500 | 10.279830587380388 | 21.996063734099092
+7 | 1000 | 10.279830587380388 | 21.996063734099092
+8 | 2000 | 10.279830587380388 | 21.996063734099092
+9 | 5000 | 10.279830587380388 | 21.996063734099092
+
 ## Acknowledgements
 
 Parts of the codebase has been borrowed from the [LipSDP](https://github.com/arobey1/LipSDP) repository. We are grateful to the authors for making their work publicly available. 
