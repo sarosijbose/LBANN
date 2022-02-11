@@ -8,6 +8,8 @@ A mini implementation of this project can be found in this [repo](https://github
 
 ## Setup
 
+Please follow the instructions regarding splitting the fully connected networks and obtaining the respective tight bounds in the [LipSDP](https://github.com/arobey1/LipSDP) repository.
+
 1. It is recommended to setup a fresh virtual environment first
 ```bash
 python -m venv lrnn
