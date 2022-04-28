@@ -1,8 +1,8 @@
-# LRNN: Lipschitz-Regularization-of-Neural-Networks
+# LRNN: Lipschitz-Regularization-of-Neural-Networks (Overview)
 
 ## About
 
-This repository contains the implementation of this [technical report](https://sarosijbose.github.io/files/Report_IISc_internship.pdf). This work was carried out under the supervision of [Prof. Kunal Chaudhury](https://sites.google.com/site/kunalnchaudhury/home?authuser=0) at Indian Institute of Science, Bangalore. 
+This work was carried out under the supervision of [Prof. Kunal Chaudhury](https://sites.google.com/site/kunalnchaudhury/home?authuser=0) at Indian Institute of Science, Bangalore. 
 
 A mini implementation of this project can be found in this [repo](https://github.com/sarosijbose/Trivial-Lipschitz-Bound-Estimation).
 
