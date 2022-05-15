@@ -1,8 +1,8 @@
-# LRNN: Lipschitz-Bound-Analysis-of-Neural-Networks (Overview)
+# LBANN: Lipschitz-Bound-Analysis-of-Neural-Networks
 
 ## About
 
-This work was carried out under the supervision of [Prof. Kunal Chaudhury](https://sites.google.com/site/kunalnchaudhury/home?authuser=0) at Indian Institute of Science, Bangalore. 
+This work was carried out under the supervision of [Prof. Kunal Chaudhury](https://sites.google.com/site/kunalnchaudhury/home?authuser=0) at Indian Institute of Science, Bangalore. The corresponding paper is currently submitted to ICPR(W) 2022.
 
 A mini implementation of this project can be found in this [repo](https://github.com/sarosijbose/Trivial-Lipschitz-Bound-Estimation).
 
